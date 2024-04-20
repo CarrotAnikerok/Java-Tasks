@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task4Capacity" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.138">
+  <properties/>
+  <testcase name="4: calc by default method capacity [figure: &lt;Circle@287f94b1 radius=5.0&gt;, capacity: 2.5, #0]" classname="Task4Capacity" time="0.107"/>
+  <testcase name="4: calc by default method capacity [figure: &lt;EquilateralTriangle@50cf5a23 side=5.0 side1=5.0 side2=5.0 side3=5.0&gt;, capacity: 0.722, #1]" classname="Task4Capacity" time="0.004"/>
+  <testcase name="4: calc by default method capacity [figure: &lt;Rectangle@77e2a6e2 height=5.0 width=6.0&gt;, capacity: 1.364, #2]" classname="Task4Capacity" time="0.0"/>
+  <testcase name="4: calc by default method capacity [figure: &lt;RightTriangle@5710768a side1=5.0 side2=6.0 side1=5.0 side2=6.0 side3=7.810249675906654&gt;, capacity: 0.797, #3]" classname="Task4Capacity" time="0.0"/>
+  <testcase name="4: calc by default method capacity [figure: &lt;Rhomb@199e4c2b diagonal1=5.0 diagonal2=6.0&gt;, capacity: 0.96, #4]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by default method capacity [figure: &lt;Square@6e0d4a8 side=5.0 height=5.0 width=5.0&gt;, capacity: 1.25, #5]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;Circle@b09fac1 radius=5.0&gt;, capacity: 2.5, #0]" classname="Task4Capacity" time="0.004"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;EquilateralTriangle@61019f59 side=5.0 side1=5.0 side2=5.0 side3=5.0&gt;, capacity: 0.722, #1]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;Rectangle@62e8f862 height=5.0 width=6.0&gt;, capacity: 1.364, #2]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;RightTriangle@26f3d90c side1=5.0 side2=6.0 side1=5.0 side2=6.0 side3=7.810249675906654&gt;, capacity: 0.797, #3]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;Rhomb@3c49fab6 diagonal1=5.0 diagonal2=6.0&gt;, capacity: 0.96, #4]" classname="Task4Capacity" time="0.001"/>
+  <testcase name="4: calc by static method capacity [figure: &lt;Square@515f4131 side=5.0 height=5.0 width=5.0&gt;, capacity: 1.25, #5]" classname="Task4Capacity" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

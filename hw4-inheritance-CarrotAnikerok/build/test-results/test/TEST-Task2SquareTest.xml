@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2SquareTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.011">
+  <properties/>
+  <testcase name="2: square; check area [a: 0, expectedArea: 0, #0]" classname="Task2SquareTest" time="0.001"/>
+  <testcase name="2: square; check area [a: 2, expectedArea: 4, #1]" classname="Task2SquareTest" time="0.0"/>
+  <testcase name="2: square; check area [a: 10, expectedArea: 100, #2]" classname="Task2SquareTest" time="0.0"/>
+  <testcase name="2: square; check area with negative a" classname="Task2SquareTest" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 0, expectedPerimeter: 0, #0]" classname="Task2SquareTest" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 1, expectedPerimeter: 4, #1]" classname="Task2SquareTest" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 2, expectedPerimeter: 8, #2]" classname="Task2SquareTest" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 12, expectedPerimeter: 48, #3]" classname="Task2SquareTest" time="0.001"/>
+  <testcase name="2: square; check perimeter with negative a" classname="Task2SquareTest" time="0.001"/>
+  <testcase name="2: square; check info" classname="Task2SquareTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2EquilateralTriangleSpec" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.019">
+  <properties/>
+  <testcase name="2: square; check area [a: 0, expectedArea: 0, #0]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check area [a: 1, expectedArea: 0.433, #1]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check area [a: 2, expectedArea: 1.732, #2]" classname="Task2EquilateralTriangleSpec" time="0.0"/>
+  <testcase name="2: square; check area [a: 19, expectedArea: 156.318, #3]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check area with negative a" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 0, expectedPerimeter: 0, #0]" classname="Task2EquilateralTriangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 1, expectedPerimeter: 3, #1]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 2, expectedPerimeter: 6, #2]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 12, expectedPerimeter: 36, #3]" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter with negative a" classname="Task2EquilateralTriangleSpec" time="0.0"/>
+  <testcase name="2: square; check info" classname="Task2EquilateralTriangleSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

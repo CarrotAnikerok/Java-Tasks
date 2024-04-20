@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2RohmbSpec" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.017">
+  <properties/>
+  <testcase name="2: rectangle; check area [a: 0, b: 0, expectedArea: 0, #0]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 0, b: 1, expectedArea: 0, #1]" classname="Task2RohmbSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 1, b: 0, expectedArea: 0, #2]" classname="Task2RohmbSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 1, b: 1, expectedArea: 0.5, #3]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 2, b: 1, expectedArea: 1, #4]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 2, b: 2, expectedArea: 2, #5]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 5, b: 8, expectedArea: 20, #6]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: square; check area with negative a" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 0, b: 0, expectedPerimeter: 0, #0]" classname="Task2RohmbSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 1, b: 1, expectedPerimeter: 2.828, #1]" classname="Task2RohmbSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 5, b: 3, expectedPerimeter: 11.662, #2]" classname="Task2RohmbSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter [a: 12, b: 10, expectedPerimeter: 31.241, #3]" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter with negative a" classname="Task2RohmbSpec" time="0.0"/>
+  <testcase name="2: square; check info" classname="Task2RohmbSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2RectangleSpec" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.025">
+  <properties/>
+  <testcase name="2: rectangle; check area [a: 0, b: 0, expectedArea: 0, #0]" classname="Task2RectangleSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 0, b: 1, expectedArea: 0, #1]" classname="Task2RectangleSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 1, b: 0, expectedArea: 0, #2]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 1, b: 1, expectedArea: 1, #3]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: rectangle; check area [a: 2, b: 1, expectedArea: 2, #4]" classname="Task2RectangleSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 2, b: 2, expectedArea: 4, #5]" classname="Task2RectangleSpec" time="0.001"/>
+  <testcase name="2: rectangle; check area [a: 5, b: 8, expectedArea: 40, #6]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check area with negative a" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 0, b: 0, expectedPerimeter: 0, #0]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 0, b: 1, expectedPerimeter: 2, #1]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 1, b: 1, expectedPerimeter: 4, #2]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 5, b: 3, expectedPerimeter: 16, #3]" classname="Task2RectangleSpec" time="0.0"/>
+  <testcase name="2: square; check perimeter [a: 12, b: 10, expectedPerimeter: 44, #4]" classname="Task2RectangleSpec" time="0.001"/>
+  <testcase name="2: square; check perimeter with negative a" classname="Task2RectangleSpec" time="0.002"/>
+  <testcase name="2: square; check info" classname="Task2RectangleSpec" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

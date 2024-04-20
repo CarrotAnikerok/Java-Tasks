@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolveQuadraticEquationSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.01">
+  <properties/>
+  <testcase name="check isLast5 [a: 1, b: 2, c: 3, expectedSolution: no solution, #0]" classname="SolveQuadraticEquationSpec" time="0.001"/>
+  <testcase name="check isLast5 [a: 1, b: -16, c: 64, expectedSolution: one solution x = 8, #1]" classname="SolveQuadraticEquationSpec" time="0.003"/>
+  <testcase name="check isLast5 [a: 1, b: 2, c: -3, expectedSolution: two solutions x1 = -3, x2 = 1, #2]" classname="SolveQuadraticEquationSpec" time="0.001"/>
+  <testcase name="check isLast5 [a: 0, b: 0, c: 0, expectedSolution: there are infinitely many solutions, #3]" classname="SolveQuadraticEquationSpec" time="0.001"/>
+  <testcase name="check isLast5 [a: 100, b: 1, c: 50, expectedSolution: no solution, #4]" classname="SolveQuadraticEquationSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

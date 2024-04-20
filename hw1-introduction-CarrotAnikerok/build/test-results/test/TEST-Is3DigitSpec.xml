@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Is3DigitSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.007">
+  <properties/>
+  <testcase name="check is3Digit [a: 1, expectedIs3Digit: false, #0]" classname="Is3DigitSpec" time="0.003"/>
+  <testcase name="check is3Digit [a: 10, expectedIs3Digit: false, #1]" classname="Is3DigitSpec" time="0.001"/>
+  <testcase name="check is3Digit [a: 111, expectedIs3Digit: true, #2]" classname="Is3DigitSpec" time="0.001"/>
+  <testcase name="check is3Digit [a: 1111, expectedIs3Digit: false, #3]" classname="Is3DigitSpec" time="0.001"/>
+  <testcase name="check is3Digit [a: 1000, expectedIs3Digit: false, #4]" classname="Is3DigitSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

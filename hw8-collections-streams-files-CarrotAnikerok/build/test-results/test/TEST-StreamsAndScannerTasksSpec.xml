@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StreamsAndScannerTasksSpec" tests="19" skipped="0" failures="0" errors="0" timestamp="2023-02-25T09:51:56" hostname="LAPTOP-PVAGBR72" time="0.233">
+  <properties/>
+  <testcase name="4: calc words count in file test_input_1.txt" classname="StreamsAndScannerTasksSpec" time="0.137"/>
+  <testcase name="4: calc words count in file test_input_2.txt" classname="StreamsAndScannerTasksSpec" time="0.012"/>
+  <testcase name="4: should fail for incorrect file test_input_wrong_name_1.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="4: should fail for incorrect file test_input_wrong_name_2.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="4: should fail for null file" classname="StreamsAndScannerTasksSpec" time="0.0"/>
+  <testcase name="5: calc words count in file test_input_1.txt without stop words" classname="StreamsAndScannerTasksSpec" time="0.023"/>
+  <testcase name="5: calc words count in file test_input_2.txt without stop words" classname="StreamsAndScannerTasksSpec" time="0.004"/>
+  <testcase name="5: should fail for incorrect file test_input_wrong_name_1.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="5: should fail for incorrect file test_input_wrong_name_2.txt" classname="StreamsAndScannerTasksSpec" time="0.0"/>
+  <testcase name="5: should fail for incorrect stop words file" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="6: calc words count with first upper case letter in file test_input_1.txt" classname="StreamsAndScannerTasksSpec" time="0.003"/>
+  <testcase name="6: calc words count with first upper case letter in file test_input_2.txt" classname="StreamsAndScannerTasksSpec" time="0.002"/>
+  <testcase name="6: should fail for incorrect file test_input_wrong_name_1.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="6: should fail for incorrect file test_input_wrong_name_2.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="7: calc words count with first upper case letter in file test_input_1.txt" classname="StreamsAndScannerTasksSpec" time="0.02"/>
+  <testcase name="7: calc words count with first upper case letter in file test_input_2.txt" classname="StreamsAndScannerTasksSpec" time="0.002"/>
+  <testcase name="7: should fail for incorrect file test_input_wrong_name_1.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="7: should fail for incorrect file test_input_wrong_name_2.txt" classname="StreamsAndScannerTasksSpec" time="0.001"/>
+  <testcase name="8: calc words count with first upper case letter in file #fileName" classname="StreamsAndScannerTasksSpec" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

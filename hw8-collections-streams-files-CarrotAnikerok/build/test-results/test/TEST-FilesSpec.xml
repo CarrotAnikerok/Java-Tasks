@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FilesSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-25T09:51:55" hostname="LAPTOP-PVAGBR72" time="0.464">
+  <properties/>
+  <testcase name="9. read int should return correct [message: Enter number, enteringNumber: 5, #0]" classname="FilesSpec" time="0.246"/>
+  <testcase name="9. read int should return correct [message: Enter phone, enteringNumber: 90526683, #1]" classname="FilesSpec" time="0.108"/>
+  <testcase name="9. read int should return correct [message: Enter age, enteringNumber: 24, #2]" classname="FilesSpec" time="0.107"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

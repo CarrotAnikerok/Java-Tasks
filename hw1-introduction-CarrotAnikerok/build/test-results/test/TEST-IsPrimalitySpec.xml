@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsPrimalitySpec" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.013">
+  <properties/>
+  <testcase name="check isPrimality [a: 2, expectedIsPrimality: true, #0]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 3, expectedIsPrimality: true, #1]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 5, expectedIsPrimality: true, #2]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 7, expectedIsPrimality: true, #3]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 983, expectedIsPrimality: true, #4]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 991, expectedIsPrimality: true, #5]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 997, expectedIsPrimality: true, #6]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 984959, expectedIsPrimality: true, #7]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 4, expectedIsPrimality: false, #8]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 6, expectedIsPrimality: false, #9]" classname="IsPrimalitySpec" time="0.001"/>
+  <testcase name="check isPrimality [a: 9, expectedIsPrimality: false, #10]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 982743, expectedIsPrimality: false, #11]" classname="IsPrimalitySpec" time="0.0"/>
+  <testcase name="check isPrimality [a: 984957, expectedIsPrimality: false, #12]" classname="IsPrimalitySpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

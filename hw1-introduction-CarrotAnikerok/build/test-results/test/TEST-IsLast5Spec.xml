@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsLast5Spec" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.005">
+  <properties/>
+  <testcase name="check isLast5 [a: 5, expectedIsLast5: true, #0]" classname="IsLast5Spec" time="0.0"/>
+  <testcase name="check isLast5 [a: 51, expectedIsLast5: false, #1]" classname="IsLast5Spec" time="0.0"/>
+  <testcase name="check isLast5 [a: 15, expectedIsLast5: true, #2]" classname="IsLast5Spec" time="0.0"/>
+  <testcase name="check isLast5 [a: 50, expectedIsLast5: false, #3]" classname="IsLast5Spec" time="0.0"/>
+  <testcase name="check isLast5 [a: 5, expectedIsLast5: true, #4]" classname="IsLast5Spec" time="0.0"/>
+  <testcase name="check isLast5 [a: 555551, expectedIsLast5: false, #5]" classname="IsLast5Spec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

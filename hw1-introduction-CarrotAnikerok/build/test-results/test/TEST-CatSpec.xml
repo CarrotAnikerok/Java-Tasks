@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CatSpec" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.075">
+  <properties/>
+  <testcase name="check cat [a: -5, expectedCat: -5 kotov, #0]" classname="CatSpec" time="0.047"/>
+  <testcase name="check cat [a: -4, expectedCat: -4 kota, #1]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: -1, expectedCat: -1 kot, #2]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 0, expectedCat: 0 kotov, #3]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 2, expectedCat: 2 kota, #4]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 3, expectedCat: 3 kota, #5]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 4, expectedCat: 4 kota, #6]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 5, expectedCat: 5 kotov, #7]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 6, expectedCat: 6 kotov, #8]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 7, expectedCat: 7 kotov, #9]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 8, expectedCat: 8 kotov, #10]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 9, expectedCat: 9 kotov, #11]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 11, expectedCat: 11 kotov, #12]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 14, expectedCat: 14 kotov, #13]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 21, expectedCat: 21 kot, #14]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 22, expectedCat: 22 kota, #15]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 25, expectedCat: 25 kotov, #16]" classname="CatSpec" time="0.001"/>
+  <testcase name="check cat [a: 1001, expectedCat: 1001 kot, #17]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 1003, expectedCat: 1003 kota, #18]" classname="CatSpec" time="0.0"/>
+  <testcase name="check cat [a: 1005, expectedCat: 1005 kotov, #19]" classname="CatSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

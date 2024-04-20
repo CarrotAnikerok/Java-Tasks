@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegexpTasksSpec" tests="47" skipped="0" failures="0" errors="0" timestamp="2022-12-03T10:21:03" hostname="LAPTOP-PVAGBR72" time="0.357">
+  <properties/>
+  <testcase name="1: is true cat test [input: cat, expectedResult: true, #0]" classname="RegexpTasksSpec" time="0.116"/>
+  <testcase name="1: is true cat test [input: Cat, expectedResult: true, #1]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: theCATisHERE, expectedResult: true, #2]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: cccattt, expectedResult: true, #3]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: null, expectedResult: false, #4]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: kat, expectedResult: false, #5]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: cot, expectedResult: false, #6]" classname="RegexpTasksSpec" time="0.0"/>
+  <testcase name="1: is true cat test [input: cart, expectedResult: false, #7]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: caat, expectedResult: false, #8]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="1: is true cat test [input: cta, expectedResult: false, #9]" classname="RegexpTasksSpec" time="0.0"/>
+  <testcase name="2: catculator [input: null, expectedResult: 0, #0]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="2: catculator [input: , expectedResult: 0, #1]" classname="RegexpTasksSpec" time="0.002"/>
+  <testcase name="2: catculator [input: Valentina has 3 cats, but Nikolay has only 1 cat, expectedResult: 4, #2]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="2: catculator [input: Alexander has 1 dog, but want to have 1 cat, expectedResult: 1, #3]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="2: catculator [input: On November 7 3 cats decided to make a revolution, expectedResult: 3, #4]" classname="RegexpTasksSpec" time="0.002"/>
+  <testcase name="2: catculator [input: Hermitage Cat invites you to the museum, expectedResult: 1, #5]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="3: skynet [input: null, expectedResult: , #0]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="3: skynet [input: , expectedResult: , #1]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="3: skynet [input: I need to understand the human mind, expectedResult: I need to understand the computer mind, #2]" classname="RegexpTasksSpec" time="0.053"/>
+  <testcase name="3: skynet [input: humanity, expectedResult: humanity, #3]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="3: skynet [input: Only a human can make the only right decision, expectedResult: Only a computer can make the only right decision, #4]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="3: skynet [input: I`ll be back, expectedResult: I`ll be back, #5]" classname="RegexpTasksSpec" time="0.0"/>
+  <testcase name="3: skynet [input: I need your clothes, your boots and your motorcycle, human, expectedResult: I need your clothes, your boots and your motorcycle, computer, #6]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="3: skynet [input: Please, ask all humans, where is Sarah Connor, expectedResult: Please, ask all humans, where is Sarah Connor, #7]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="4: removeDuplicates [input: null, expectedResult: , #0]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="4: removeDuplicates [input: , expectedResult: , #1]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="4: removeDuplicates [input: attraction, expectedResult: atraction, #2]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="4: removeDuplicates [input: buzzzz, expectedResult: buz, #3]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="4: removeDuplicates [input: AaAaAa, expectedResult: AaAaAa, #4]" classname="RegexpTasksSpec" time="0.0"/>
+  <testcase name="4: removeDuplicates [input: SSooss, expectedResult: Sos, #5]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: null, expectedResult: false, #0]" classname="RegexpTasksSpec" time="0.005"/>
+  <testcase name="5: isEmail [input: , expectedResult: false, #1]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: NotAnEmail, expectedResult: false, #2]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: @NotAnEmail, expectedResult: false, #3]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: Ima Fool@example.com, expectedResult: false, #4]" classname="RegexpTasksSpec" time="0.004"/>
+  <testcase name="5: isEmail [input: .@example.com, expectedResult: false, #5]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: pootietang.@example.com, expectedResult: false, #6]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: wo..oly@example.com, expectedResult: false, #7]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: .wooly@example.com, expectedResult: false, #8]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: spbu@spbu.ru, expectedResult: true, #9]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="5: isEmail [input: anna.vasilieva@spbu.ru, expectedResult: true, #10]" classname="RegexpTasksSpec" time="0.0"/>
+  <testcase name="5: isEmail [input: abit@itmo.ru, expectedResult: true, #11]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="6: validateForDuplicates [input: null, expectedResult: , #0]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="6: validateForDuplicates [input: , expectedResult: , #1]" classname="RegexpTasksSpec" time="0.001"/>
+  <testcase name="6: validateForDuplicates [input: This is a test, expectedResult: This is a test, #2]" classname="RegexpTasksSpec" time="0.021"/>
+  <testcase name="6: validateForDuplicates [input: This is is a test, expectedResult: This is &lt;strong&gt;is&lt;/strong&gt; a test, #3]" classname="RegexpTasksSpec" time="0.003"/>
+  <testcase name="6: validateForDuplicates [input: I I don`t now how to do this homework, expectedResult: I &lt;strong&gt;I&lt;/strong&gt; don`t now how to do this homework, #4]" classname="RegexpTasksSpec" time="0.002"/>
+  <system-out><![CDATA[a
+test
+This
+is
+a
+test
+This
+is
+how
+don`t
+homework
+now
+this
+I
+to
+do
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsSameDigitsSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.006">
+  <properties/>
+  <testcase name="check isSameDigits [a: 1, expectedIsSameDigits: false, #0]" classname="IsSameDigitsSpec" time="0.0"/>
+  <testcase name="check isSameDigits [a: 0, expectedIsSameDigits: false, #1]" classname="IsSameDigitsSpec" time="0.0"/>
+  <testcase name="check isSameDigits [a: 11, expectedIsSameDigits: true, #2]" classname="IsSameDigitsSpec" time="0.0"/>
+  <testcase name="check isSameDigits [a: 111, expectedIsSameDigits: true, #3]" classname="IsSameDigitsSpec" time="0.0"/>
+  <testcase name="check isSameDigits [a: 1101, expectedIsSameDigits: false, #4]" classname="IsSameDigitsSpec" time="0.001"/>
+  <testcase name="check isSameDigits [a: 1111, expectedIsSameDigits: true, #5]" classname="IsSameDigitsSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

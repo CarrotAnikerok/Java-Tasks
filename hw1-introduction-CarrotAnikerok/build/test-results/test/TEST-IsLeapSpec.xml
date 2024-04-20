@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsLeapSpec" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-10-18T13:49:39" hostname="LAPTOP-PVAGBR72" time="0.011">
+  <properties/>
+  <testcase name="check isLeapDigits [a: 1764, isLeapYear: true, #0]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 1980, isLeapYear: true, #1]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2088, isLeapYear: true, #2]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2012, isLeapYear: true, #3]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2000, isLeapYear: true, #4]" classname="IsLeapSpec" time="0.001"/>
+  <testcase name="check isLeapDigits [a: 1800, isLeapYear: false, #5]" classname="IsLeapSpec" time="0.001"/>
+  <testcase name="check isLeapDigits [a: 1900, isLeapYear: false, #6]" classname="IsLeapSpec" time="0.001"/>
+  <testcase name="check isLeapDigits [a: 1700, isLeapYear: false, #7]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2013, isLeapYear: false, #8]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2014, isLeapYear: false, #9]" classname="IsLeapSpec" time="0.0"/>
+  <testcase name="check isLeapDigits [a: 2100, isLeapYear: false, #10]" classname="IsLeapSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

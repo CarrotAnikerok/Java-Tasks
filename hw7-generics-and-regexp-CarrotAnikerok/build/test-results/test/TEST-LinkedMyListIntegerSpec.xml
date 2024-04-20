@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LinkedMyListIntegerSpec" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-03T10:21:03" hostname="LAPTOP-PVAGBR72" time="0.039">
+  <properties/>
+  <testcase name="1: check empty size array" classname="LinkedMyListIntegerSpec" time="0.023"/>
+  <testcase name="2: check toArray of empty array" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="4: check add element into list and size eq 1" classname="LinkedMyListIntegerSpec" time="0.004"/>
+  <testcase name="5: check add element into list and toArray is correct" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="6: check add element into list and get method is correct" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="7: check insert method" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="8: check insert method" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="8: check delete method" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <testcase name="9: check delete method" classname="LinkedMyListIntegerSpec" time="0.002"/>
+  <testcase name="10: check add first method" classname="LinkedMyListIntegerSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

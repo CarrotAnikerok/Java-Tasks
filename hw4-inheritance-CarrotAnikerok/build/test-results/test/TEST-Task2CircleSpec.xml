@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2CircleSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-11T18:28:41" hostname="LAPTOP-PVAGBR72" time="0.011">
+  <properties/>
+  <testcase name="2: circle; check area" classname="Task2CircleSpec" time="0.003"/>
+  <testcase name="2: circle; check area with negative radius" classname="Task2CircleSpec" time="0.002"/>
+  <testcase name="2: circle; check perimeter" classname="Task2CircleSpec" time="0.002"/>
+  <testcase name="2: circle; check perimeter with negative radius" classname="Task2CircleSpec" time="0.0"/>
+  <testcase name="2: circle; check info" classname="Task2CircleSpec" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

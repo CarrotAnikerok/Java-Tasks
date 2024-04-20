@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CollectionsTasksSpec" tests="20" skipped="0" failures="0" errors="0" timestamp="2023-02-25T09:51:55" hostname="LAPTOP-PVAGBR72" time="0.154">
+  <properties/>
+  <testcase name="11 reverse list (clear function) [sourceList: [1, 2, 3], expectedList: [3, 2, 1], #0]" classname="CollectionsTasksSpec" time="0.081"/>
+  <testcase name="11 reverse list (clear function) [sourceList: [2, 3], expectedList: [3, 2], #1]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="11 reverse list (clear function) [sourceList: [1, 4, 6, 9, 2], expectedList: [2, 9, 6, 4, 1], #2]" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="11 reverse list (clear function) [sourceList: [], expectedList: [], #3]" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="11 reverse list (clear function) should fail on null" classname="CollectionsTasksSpec" time="0.016"/>
+  <testcase name="11 reverse list (not clear function) [sourceList: [1, 2, 3], expectedList: [3, 2, 1], #0]" classname="CollectionsTasksSpec" time="0.023"/>
+  <testcase name="11 reverse list (not clear function) [sourceList: [2, 3], expectedList: [3, 2], #1]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="11 reverse list (not clear function) [sourceList: [1, 4, 6, 9, 2], expectedList: [2, 9, 6, 4, 1], #2]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="11 reverse list (not clear function) [sourceList: [], expectedList: [], #3]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="11 reverse list (not clear function) should fail on null" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="12 remove even indexed items from list [sourceList: [1, 2, 3], expectedList: [2], #0]" classname="CollectionsTasksSpec" time="0.002"/>
+  <testcase name="12 remove even indexed items from list [sourceList: [2, 3], expectedList: [3], #1]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="12 remove even indexed items from list [sourceList: [1, 4, 6, 9, 2], expectedList: [4, 9], #2]" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="12 remove even indexed items from list [sourceList: [], expectedList: [], #3]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="12 remove even indexed items from list should fail on null" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="13 return new list, where removed even indexed items  [sourceList: [1, 2, 3], expectedList: [2], #0]" classname="CollectionsTasksSpec" time="0.002"/>
+  <testcase name="13 return new list, where removed even indexed items  [sourceList: [2, 3], expectedList: [3], #1]" classname="CollectionsTasksSpec" time="0.001"/>
+  <testcase name="13 return new list, where removed even indexed items  [sourceList: [1, 4, 6, 9, 2], expectedList: [4, 9], #2]" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="13 return new list, where removed even indexed items  [sourceList: [], expectedList: [], #3]" classname="CollectionsTasksSpec" time="0.0"/>
+  <testcase name="13 create odd elements list should fail on null" classname="CollectionsTasksSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
